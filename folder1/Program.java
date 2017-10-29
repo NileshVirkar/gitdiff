@@ -8,7 +8,7 @@ public class SimpleClass {
 	
 	}
 	
-	int method2k() {
+	int method2() {
 		return 5;
 	}
 }
