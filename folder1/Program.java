@@ -19,7 +19,7 @@ public class SimpleClass {
 	void method5k(int k) {
 	}
 	
-	int method2Changed() {
+	int method2Changedk() {
 	int k;
 	int k2;
 	int k3;
