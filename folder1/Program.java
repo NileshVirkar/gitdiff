@@ -4,7 +4,8 @@ public class SimpleClass {
 
 	int k;
 	
-	void method1(int k) {
+	SimpleClass method1(int k) {
+	return null;
 	}
 	
 	void method2(int k) {
